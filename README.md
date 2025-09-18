@@ -11,4 +11,8 @@
 
   <h3>Site para Desktop :computer:</h3>
   <br>
-<img src="https://github.com/fernandomatias20000/easy-shopping/blob/main/assets/desktop.jpg?raw=true"/> 
+<img src="https://github.com/fernandomatias20000/easy-shopping/blob/main/assets/desktop.jpg?raw=true"/>
+<br>
+<h3>Site para Mobile :iphone:</h3>
+
+<img src="https://github.com/fernandomatias20000/easy-shopping/blob/main/assets/mobile.jpg?raw=true">
